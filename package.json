@@ -1,0 +1,19 @@
+{
+  "name": "clientsiderendering_nodejs_booklist",
+  "version": "1.0.0",
+  "description": "lesson 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricvigh/ClientSideRendering_NodeJS_BookList.git"
+  },
+  "author": "ricardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricvigh/ClientSideRendering_NodeJS_BookList/issues"
+  },
+  "homepage": "https://github.com/ricvigh/ClientSideRendering_NodeJS_BookList#readme"
+}
